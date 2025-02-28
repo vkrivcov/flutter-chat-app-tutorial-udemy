@@ -4,6 +4,7 @@ import 'package:flutter_chat_app_tutorial_udemy/screens/auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_chat_app_tutorial_udemy/screens/chat.dart';
 import 'package:flutter_chat_app_tutorial_udemy/screens/splash.dart';
+import 'package:flutter_chat_app_tutorial_udemy/widgets/user_image_picker.dart';
 import 'firebase_options.dart';
 
 void main() async {
